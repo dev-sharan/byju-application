@@ -3,6 +3,7 @@
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 7.0.2.
 
 ## Steps With Stackblitz
+-------------------------------------------------------------------------------------------------------------------------------------
 
 ### Only development
 
@@ -13,9 +14,8 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 [⚡️ Edit/View on StackBlitz ](https://stackblitz.com/edit/byju-assignment-unit-testing)  |   [Github Link](https://github.com/sharanmanish/byju-assignment-unit-testing)
 
 
--------------------------------------------------------------------------------------------------------------------------------------
-
 ## Steps Without Stackblitz
+-------------------------------------------------------------------------------------------------------------------------------------
 
 ### Clone and setup
 
@@ -34,7 +34,7 @@ Run `ng test --code-coverage` to execute the unit tests via [Karma](https://karm
 After ruuning `ng test --code-coverage` command ,go to `byju-assignment/coverage` ,open `index.html` file with chrome
 
 
--------------------------------------------------------------------------------------------------------------------------------------
-
 ## Screen Shots
+
+-------------------------------------------------------------------------------------------------------------------------------------
 
