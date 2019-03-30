@@ -40,5 +40,38 @@ After ruuning `ng test --code-coverage` command ,go to `byju-assignment/coverage
 
 ## Screen Shots
 
+### Development Only
+
+`editor`
+
+![stackblitz editor](https://raw.githubusercontent.com/sharanmanish/uploads/master/StackBlitz%20Dev%20Only.png)
+
+`preview`
+
+![stackblitz preview](https://raw.githubusercontent.com/sharanmanish/uploads/master/StackBlitz%20Dev%20Only%20%20Preview.png)
 
 
+### Testing Only
+
+`editor`
+
+![stackblitz editor](https://raw.githubusercontent.com/sharanmanish/uploads/master/StackBlitz%20Test%20Only.png)
+
+`preview1`
+
+![stackblitz preview](https://raw.githubusercontent.com/sharanmanish/uploads/master/StackBlitz%20Test%20Only%20%20Preview.png)
+
+`preview2`
+
+![stackblitz preview](https://raw.githubusercontent.com/sharanmanish/uploads/master/StackBlitz%20Test%20Only%20%20Preview2.png)
+
+
+### Code Coverage
+
+`app.component coverage`
+
+![app comp covrg](https://raw.githubusercontent.com/sharanmanish/uploads/master/Code-Coverage2.png)
+
+`data.service coverage`
+
+![data service covrg](https://raw.githubusercontent.com/sharanmanish/uploads/master/dataservicecov.png)
