@@ -33,3 +33,8 @@ Run `ng test --code-coverage` to execute the unit tests via [Karma](https://karm
 
 After ruuning `ng test --code-coverage` command ,go to `byju-assignment/coverage` ,open `index.html` file with chrome
 
+
+-------------------------------------------------------------------------------------------------------------------------------------
+
+## Screen Shots
+
