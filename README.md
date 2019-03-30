@@ -6,11 +6,11 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 
 ### Only development
 
-[Edit/View on StackBlitz ⚡️](https://stackblitz.com/edit/byju-assignment)  |  [Github Link](https://github.com/sharanmanish/byju-assignment)
+[⚡️ Edit/View on StackBlitz](https://stackblitz.com/edit/byju-assignment)  |  [Github Link](https://github.com/sharanmanish/byju-assignment)
 
 ### Only unit-testing with jasmine
 
-[Edit/View on StackBlitz ⚡️](https://stackblitz.com/edit/byju-assignment-unit-testing)  |   [Github Link](https://github.com/sharanmanish/byju-assignment-unit-testing)
+[⚡️ Edit/View on StackBlitz ](https://stackblitz.com/edit/byju-assignment-unit-testing)  |   [Github Link](https://github.com/sharanmanish/byju-assignment-unit-testing)
 
 
 -------------------------------------------------------------------------------------------------------------------------------------
