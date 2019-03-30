@@ -4,19 +4,19 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 
 # Steps Without Stackblitz
 
-## Clone and setup
+### Clone and setup
 
 clone this repo and do `npm install` inside cloned folder.
 
-## Development server
+### Development server
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
 
-## Running unit tests with coverage
+### Running unit tests with coverage
 
 Run `ng test --code-coverage` to execute the unit tests via [Karma](https://karma-runner.github.io).
 
-## Viewing code-coverage report 
+### Viewing code-coverage report 
 
 After ruuning `ng test --code-coverage` command ,go to `byju-assignment/coverage` ,open `index.html` file with chrome
 
