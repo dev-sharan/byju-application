@@ -57,11 +57,11 @@ After ruuning `ng test --code-coverage` command ,go to `byju-assignment/coverage
 
 ![stackblitz editor](https://raw.githubusercontent.com/sharanmanish/uploads/master/StackBlitz%20Test%20Only.png)
 
-`preview1`
+`preview1 - app.component.spec`
 
 ![stackblitz preview](https://raw.githubusercontent.com/sharanmanish/uploads/master/StackBlitz%20Test%20Only%20%20Preview.png)
 
-`preview2`
+`preview2 - data.service.spec`
 
 ![stackblitz preview](https://raw.githubusercontent.com/sharanmanish/uploads/master/StackBlitz%20Test%20Only%20%20Preview2.png)
 
@@ -75,3 +75,7 @@ After ruuning `ng test --code-coverage` command ,go to `byju-assignment/coverage
 `data.service coverage`
 
 ![data service covrg](https://raw.githubusercontent.com/sharanmanish/uploads/master/dataservicecov.png)
+
+### Switch test case in stackblitz
+
+![switching test cases](https://raw.githubusercontent.com/sharanmanish/uploads/master/StackBlitz%20switch%20test%20from%20AppComponent%20to%20Dataservice.png)
