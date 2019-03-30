@@ -76,6 +76,7 @@ After ruuning `ng test --code-coverage` command ,go to `byju-assignment/coverage
 
 ![data service covrg](https://raw.githubusercontent.com/sharanmanish/uploads/master/dataservicecov.png)
 
+
 ### Switch test case in stackblitz
 
 ![switching test cases](https://raw.githubusercontent.com/sharanmanish/uploads/master/StackBlitz%20switch%20test%20from%20AppComponent%20to%20Dataservice.png)
